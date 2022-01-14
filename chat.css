@@ -1,0 +1,155 @@
+.container{
+    
+    
+    position: fixed;
+    right: 15px;
+    bottom: 0;
+    min-height: 500px;
+    min-width: 400px
+}
+img{
+    border-radius: 15px;
+    width: 55px;
+    padding-top: 15px;
+
+}
+
+#mm{
+    height: 65px;
+    width: 63px;
+    border-radius: 72px;
+}
+
+/* ul{
+    display: flex;
+    float: left;
+    padding-right: 20px;
+}
+ul li{
+    margin-right: 8px;
+    text-decoration: none;
+    margin-left: 60px;
+} */
+
+#ss{
+    /* margin-right: 200px; */
+    padding-left: 94px;
+    padding-top: 20px;
+}
+
+#er{
+    width: 80px;
+    height: 90px;
+}
+ul{
+    text-decoration: none;
+    float: inline-end;
+    margin-top: 15px;
+    padding-left: 50px;
+}
+
+/* #bb{
+    margin-right: 360px;
+    padding-top: 20px;
+} */
+
+#a1{
+    background-color: rgb(38, 38, 109);
+    color:white;
+    border-radius: 20%;
+    border-radius: 20px;
+    width: 405px;
+    height: 30px;
+    margin-top: 10px;
+    padding-top: 13px;
+}
+
+
+#qw{
+    font: 1em sans-serif;
+}
+
+#a2{
+    color: white;
+    background-color: rgb(6, 6, 54);
+    height: 353px;
+    width: 388px;
+    padding-left: 20px;
+    border-radius: 20px;
+}
+
+
+.btn{
+    padding: 10px;
+    border-radius: 20px;
+    color: solid white;
+    background-color: rgb(6, 6, 54);
+    
+}
+#yt{
+    color: white;
+}
+#kk{
+
+    margin: 0 6px;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 2px;
+}
+#ff{
+    padding-left: 20px;
+}
+
+#ll{
+    padding: 10px;
+margin-top: 20px;
+text-decoration: none;
+display: inline-block;
+}
+
+.apply{
+    background: rgb(6, 6, 54);
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    padding: 16px 40px;
+    border: 1px solid #fff;
+    margin: 20px 0;
+    color: #fff;
+}
+.btn_wrap{
+    padding: 10px;
+    background: rgb(6, 6, 54);
+}
+
+/* .ask_block{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 10px 0;
+}
+.ask_block input{
+    width: 100%;
+    padding: 6px 0;
+    border-left: none;
+    margin-right:none;
+    margin-bottom: 40px;
+    padding-left: 20px; */
+
+#fr{
+    border: solid rgb(136, 129, 129) 1px;
+    height: 581px;
+    width: 418px;
+    border-radius: 31px;
+    padding-left: 9px;
+}
+.ask{
+    max-width: 100%;
+}
+#ww{
+    margin: 0;
+    padding-left: 200px;
+}
